@@ -1,0 +1,2 @@
+# Assignment
+The task of this assignment was to create a bank system, in which multiple *people* (threads) try and access the same bank account object at once, and perform transactions on that account. If not programmed correctly, the bank account can report false values and end up with incorrect data.
